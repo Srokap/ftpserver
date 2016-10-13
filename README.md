@@ -1,4 +1,4 @@
-# ftpserver [![NPM version][npm-image]][npm-url]
+# ftpserver [![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/Srokap/ftpserver.svg?branch=master)](https://travis-ci.org/Srokap/ftpserver)
 > Simple and extensible promise-based FTP server.
 
 ## Index
